@@ -1,0 +1,15 @@
+[00:00] Priya: Okay, let's start. Two topics today: the payment gateway migration and the release date.
+[00:20] Arjun: Quick status. The new gateway sandbox is working. The refund API still fails on partial refunds.
+[01:05] Priya: That's a blocker for release. Arjun, can you fix partial refunds by next Friday?
+[01:15] Arjun: Yes, I'll take it. Next Friday works.
+[02:00] Meera: On the QA side, we have 40 test cases left for checkout. I need the staging environment refreshed first.
+[02:20] Priya: Karthik, can you refresh staging by Monday?
+[02:30] Karthik: Sure, Monday morning.
+[03:10] Priya: Release date. Originally it was Thursday the 19th. Given the refund bug, I'm thinking we move to Thursday the 26th.
+[03:30] Meera: That works for QA if staging is ready Monday.
+[03:45] Arjun: I'd rather keep the 19th, but it's risky.
+[04:10] Priya: Okay, decision made. We move the release to the 26th. Final.
+[04:40] Meera: Also, should we switch to a different provider for international payments?
+[05:00] Priya: Not enough information yet. Let's park it. Arjun, compare pricing before next week's meeting.
+[05:20] Arjun: Okay, I'll send a comparison by Wednesday.
+[05:40] Priya: Great, that's all. Thanks everyone.
