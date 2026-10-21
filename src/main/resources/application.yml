@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: meeting-assistant
+  ai:
+    google:
+      genai:
+        api-key: ${GOOGLE_API_KEY}
+        chat:
+          model: gemini-3.8-flash
+          temperature: 0.3
